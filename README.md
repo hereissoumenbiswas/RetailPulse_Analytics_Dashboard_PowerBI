@@ -102,7 +102,7 @@ What the Dashboard Should Help the Business Achieve:
 **Purpose:** To support time-based sales analysis and consistent date filtering across dashboard pages.
 
 **What I did:**
-Created a separate Date table in Power BI using the sales data's date range.
+Created a separate Date table in Power BI based on the date range of the sales data.
 
 **Columns Created:**
 
