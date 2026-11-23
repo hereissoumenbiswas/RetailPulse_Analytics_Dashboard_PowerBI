@@ -75,7 +75,7 @@ What the Dashboard Should Help the Business Achieve:
 3. Trimmed extra spaces in Description
 4. Removed duplicate rows (all columns selected)
 
-**Problem:** A formula failed because it used a column name that did not exist.
+**Problem:** A formula failed because it referenced a column that didn't exist.
 
 **How I solved it:** I always checked the real column name in Power Query before writing a formula.
 
