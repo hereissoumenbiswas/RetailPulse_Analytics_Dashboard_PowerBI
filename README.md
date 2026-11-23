@@ -44,7 +44,7 @@ What the Dashboard Should Help the Business Achieve:
 
 ### Step 1: Load the two CSV files
 
-**Problem:** The preview showed dates like `12-01-2009`, which looked wrong.
+**Problem:** The preview displayed dates in an unexpected format, such as `12-01-2009`.
 
 **Fix:** Fixed in Step 2.
 
