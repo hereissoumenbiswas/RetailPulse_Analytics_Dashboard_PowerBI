@@ -58,7 +58,7 @@ What the Dashboard Should Help the Business Achieve:
 
 **Problem:** The plain Append would have merged file 2 into file 1, and the other columns went back to text after I removed the automatic Changed Type step.
 
-**Fix:** Used Append Queries as New, named it `Sales`, and set the data types again.
+**Fix:** Used Append Queries as New, renamed the resulting query to `Sales`, and reassigned the data types.
 
 ### Step 4: Check the loaded data
 
