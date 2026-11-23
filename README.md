@@ -16,7 +16,7 @@ What the Dashboard Should Help the Business Achieve:
 2. Find the best and worst products: rank products by net revenue (after returns), leaving out non-product items such as postage and manual entries.
 3. Know the customers: group customers by recency and number of orders (Champions, Loyal, New / Recent, At Risk, Lost), so the business can reward loyal customers and win back those at risk.
 4. Understand markets: show which countries bring revenue and how dependent the business is on the United Kingdom.
-5. Control returns: measure returned value, return rate and net revenue.
+5. Control returns: Calculated the returned value, return rate, and net revenue.
 6. Plan timing: Identify the busiest months and quarters to help the business plan staffing, manage inventory, and schedule promotions effectively.
 
 ## Data
