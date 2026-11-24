@@ -54,7 +54,7 @@ A retailer records thousands of invoice lines every month, but the raw rows donâ
 
 **Fix:** Set `InvoiceDate` to Date/Time with the English (United States) locale, in both files.
 
-### Step 3: Combine the two files
+### Step 3: Merge the two files into a single file.
 
 **Problem:** The plain Append would have merged file 2 into file 1, and the other columns went back to text after I removed the automatic Changed Type step.
 
