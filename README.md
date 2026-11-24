@@ -99,7 +99,7 @@ A retailer records thousands of invoice lines every month, but the raw rows donâ
 
 ### Step 7: Create the Date Table
 
-**Purpose:** To support time-based sales analysis and consistent date filtering across dashboard pages.
+**Purpose:** Enabled time-based sales analysis and consistent date filtering across all dashboard pages.
 
 **What I did:**
 Created a separate Date table in Power BI based on the date range of the sales data.
