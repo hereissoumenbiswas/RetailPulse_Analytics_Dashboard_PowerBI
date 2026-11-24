@@ -130,7 +130,7 @@ Created a separate Date table in Power BI based on the date range of the sales d
 **Purpose:** To create a separate list of unique, identified customers for customer-level analysis.
 
 **What I did:**
-Created a Customers table in Power BI using the customer information available in the Sales table.
+Created a separate Customers table in Power BI using customer data from the Sales table.
 
 **Columns Created:**
 
