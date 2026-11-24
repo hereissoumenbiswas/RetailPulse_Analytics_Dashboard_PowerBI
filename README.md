@@ -77,7 +77,7 @@ A retailer records thousands of invoice lines every month, but the raw rows donâ
 
 **Problem:** A formula failed because it referenced a column that didn't exist.
 
-**How I solved it:** I always checked the real column name in Power Query before writing a formula.
+**How I solved it:**  Always verified the actual column names in Power Query before writing formulas.
 
 ### Step 6: Add Extra Columns
 
