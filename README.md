@@ -10,7 +10,7 @@ A retailer records thousands of invoice lines every month, but the raw rows donâ
 
 ## Business objectives
 
-What the Dashboard Should Help the Business Achieve:
+**Business Objectives of the Dashboard**
 
 1. Track performance: monitor revenue, orders, average order value, estimated profit and margin, with month-over-month growth and seasonal patterns.
 2. Find the best and worst products: rank products by net revenue (after returns), leaving out non-product items such as postage and manual entries.
