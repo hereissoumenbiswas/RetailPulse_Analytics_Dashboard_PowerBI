@@ -40,7 +40,7 @@ A retailer records thousands of invoice lines every month, but the raw rows donâ
 - `Estimated_Cost` is assumed to be 65% of revenue, because the dataset has no cost column.
 - Size: 10,67,371 rows before cleaning, 10,33,036 after removing duplicates.
 
-# Step-by-step: what I did and the problems I faced
+# Step-by-step: What I did and the challenges I faced.
 
 ### Step 1: Load the two CSV files
 
