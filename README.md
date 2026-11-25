@@ -93,7 +93,7 @@ A retailer records thousands of invoice lines every month, but the raw rows donâ
 
 **Purpose:** These columns support transaction classification, date analysis, revenue and estimated profit calculations, hourly analysis, customer identification, and product filtering.
 
-**Problem:** The Transaction_Type column initially showed errors because the formula referenced an incorrect column name. The Hour column was also missing.
+**Problem:** The Transaction_Type column initially returned errors because the formula referenced an incorrect column name. The Hour column was also missing.
 
 **How I solved it:** Corrected the formula using the actual Invoice column name and added the missing Hour column.
 
