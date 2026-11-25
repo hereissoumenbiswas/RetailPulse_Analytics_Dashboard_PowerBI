@@ -199,7 +199,7 @@ Created 10 interactive dashboard pages to analyze sales, customers, products, co
 - **Top 10 filter issue:** Applied Top N filters to display only the highest-performing products.
 - **Non-product entries:** Used `Item_Type` to exclude non-product items from product analysis.
 - **Cancelled orders affecting revenue:** Used `Net Revenue` to account for returns.
-- **Incorrect transaction-type values:** Used an appropriate revenue measure without a fixed Sale filter.
+- **Incorrect transaction-type values:** Used an appropriate revenue measure without applying a fixed Sale filter.
 
 ### Outcome
 Developed a 10-page interactive Power BI report that helps users explore business performance through KPIs, charts, slicers, and cross-filtering.
