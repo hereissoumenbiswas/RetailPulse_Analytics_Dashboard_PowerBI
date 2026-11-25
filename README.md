@@ -75,7 +75,7 @@ A retailer records thousands of invoice lines every month, but the raw rows donâ
 3. Trimmed extra spaces in Description
 4. Removed duplicate rows (all columns selected)
 
-**Problem:** A formula failed because it referenced a column that didn't exist.
+**Problem:** The formula failed because it referenced a non-existent column.
 
 **How I solved it:**  Always verified the actual column names in Power Query before writing formulas.
 
