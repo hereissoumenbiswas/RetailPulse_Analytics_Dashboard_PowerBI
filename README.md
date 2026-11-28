@@ -2,7 +2,7 @@
 
 ## Main Objectives
 
-To build an end-to-end Power BI analytics solution that turns two years of raw UK online retail transactions (December 2009 to December 2011) into a trusted data model and an interactive 10-page dashboard. A business manager should be able to see sales performance, product and customer behaviour, returns and stock risk, and make decisions with confidence.
+To build an end-to-end Power BI analytics solution that turns two years of raw UK online retail transactions (December 2009 to December 2011) into a trusted data model and an interactive 10-page dashboard. A business manager should be able to understand sales performance, product and customer behaviour, returns, and stock risks to make better decisions.
 
 ## Background
 
