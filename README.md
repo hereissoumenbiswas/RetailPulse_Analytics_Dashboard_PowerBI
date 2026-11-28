@@ -64,8 +64,7 @@ A retailer records thousands of invoice lines every month, but the raw rows donâ
 
 **Problem:** The column statistics showed the same min and max date, because they only used the first 1000 rows. About 1.3 lakh rows also have no `CustomerID`.
 
-**Fix:** Checked the full data with Earliest and Latest Card visuals (1 Dec 2009 to 9 Dec 2011). Kept the rows without a customer, because they are real sales, and left them out only of customer analysis.
-
+**Fix:** Checked the full data with Earliest and Latest Card visuals (1 Dec 2009 to 9 Dec 2011). Kept the sales records with missing customer information because they were valid sales, and excluded them only from customer analysis.
 ### Step 5: Clean the data
 
 **What I did in Power Query (the Applied Steps are: Renamed Columns, Changed Type, Trimmed Text, Removed Duplicates):**
