@@ -201,7 +201,7 @@ Created 10 interactive dashboard pages to analyze sales, customers, products, co
 - **Incorrect transaction-type values:** Used an appropriate revenue measure without applying a fixed Sale filter.
 
 ### Outcome
-Developed a 10-page interactive Power BI report that helps users explore business performance through KPIs, charts, slicers, and cross-filtering.
+Created a 10-page interactive Power BI report to help users understand business performance using KPIs, charts, slicers, and cross-filtering.
 
 ## Author
 
