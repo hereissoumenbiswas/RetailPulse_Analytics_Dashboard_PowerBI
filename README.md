@@ -6,7 +6,7 @@ To build an end-to-end Power BI analytics solution that turns two years of raw U
 
 ## Background
 
-A retailer records thousands of invoice lines every month, but the raw rows don’t show what is selling, who is buying, or where money is lost. This project was assigned as part of my Data Science and Analytics internship at Zidio Development. This project focuses on the Power BI component of RetailPulse.
+A retailer records thousands of sales every month, but the raw data doesn't show which products sell best, who the customers are, or where money is being lost. This project was assigned as part of my Data Science and Analytics internship at Zidio Development. This project focuses on the Power BI component of RetailPulse.
 
 ## Business objectives
 
