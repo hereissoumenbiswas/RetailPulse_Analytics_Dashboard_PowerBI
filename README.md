@@ -44,7 +44,7 @@ A retailer records thousands of invoice lines every month, but the raw rows donâ
 
 ### Step 1: Load the two CSV files
 
-**Problem:** The preview displayed dates in an unexpected format, such as `12-01-2009`.
+**Problem:** The dates appeared in an unexpected format in the preview, such as `12-01-2009`.
 
 **Fix:** Fixed in Step 2.
 
